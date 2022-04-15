@@ -1,4 +1,6 @@
  ¡Hola, Soy LimonTaKA!
+
 🔧 Lenguajes:
-Python
-JavaScript
+- Java
+- JavaScript
+- Node
