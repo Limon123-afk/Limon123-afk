@@ -3,4 +3,3 @@
 🔧 Lenguajes:
 - Java
 - JavaScript
-- Node
