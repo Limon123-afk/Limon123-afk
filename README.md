@@ -1,7 +1,4 @@
  ¡Hola, Soy LimonTaKA!
-
-🔧 Lenguajes:
-- Java
-- JavaScript
-
-YERAAAA
+ 
+🔭 actualmente estoy trabajando en: RankiaoCraft Network & Limón Client
+📫 Sitio web y contactos: limontaka.ml
